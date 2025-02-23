@@ -16,3 +16,10 @@
   <a href="https://www.linkedin.com/in/carlos-galbiatte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div align="left">
+  <a href="https://github.com/VictorVaz-Dev">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=VictorVaz-Dev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVaz-Dev&layout=compact&langs_count=7&theme=highcontrast"/>
+  </div>
