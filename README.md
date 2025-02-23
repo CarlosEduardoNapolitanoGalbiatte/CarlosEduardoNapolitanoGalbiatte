@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="left">Redes sociais</h3>
+<h3 align="left">Minhas redes sociais</h3>
 
 ###
 
